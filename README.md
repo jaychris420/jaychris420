@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m interested in Python, Django, JS, Swift
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jaychris420@me.com
 
